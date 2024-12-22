@@ -6,16 +6,12 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
+<a href="https://youtu.be/MnG8A0gf-Vk">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        alt="Podcast">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://youtu.be/MnG8A0gf-Vk🔴" 
-    alt="🔴 LIVE CODE">
-</a>
+
 </p>
 
 <p align="center">
