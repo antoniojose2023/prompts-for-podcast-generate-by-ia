@@ -7,16 +7,13 @@
 
 <p align="center">
 <a href="https://youtu.be/MnG8A0gf-Vk">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="Podcast">
+    <p align="center">
+        preview do podcast
+    </p>
 </a>
 
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
