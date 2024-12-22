@@ -7,13 +7,14 @@
 
 <p align="center">
 <a href="https://youtu.be/MnG8A0gf-Vk">
-    <p align="center">
-        preview do podcast
-    </p>
+     preview do podcast
 </a>
 
 </p>
 
+<p align="center">
+        preview do podcast
+</p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
