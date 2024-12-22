@@ -48,7 +48,7 @@
 
 ## 📚 Resultado 
 
-- [Link do podcast Youtube](https://www.youtube.com)
+- [Link do podcast Youtube](https://youtu.be/MnG8A0gf-Vk)
 
 ## 🛠️ Instruções de execução
 
