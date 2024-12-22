@@ -13,7 +13,7 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    src="https://youtu.be/MnG8A0gf-Vk🔴" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
